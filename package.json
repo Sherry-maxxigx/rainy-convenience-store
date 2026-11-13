@@ -1,0 +1,25 @@
+{
+  "name": "rainy-convenience-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive rainy-night convenience store and street built with Three.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "build:offline": "node scripts/build.cjs --offline",
+    "start": "node scripts/serve.cjs",
+    "test": "node tests/site.cjs",
+    "test:ui": "node tests/check-ui.cjs",
+    "test:storm": "node tests/check-storm.cjs",
+    "test:render": "node tests/check-render.cjs"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "playwright": "1.62.1"
+  }
+}

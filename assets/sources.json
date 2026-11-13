@@ -1,0 +1,113 @@
+[
+  {
+    "file": "textures/asphalt_02_diff.jpg",
+    "source": "Poly Haven",
+    "asset": "asphalt_02",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_diff_1k.jpg"
+  },
+  {
+    "file": "textures/asphalt_02_nor_gl.jpg",
+    "source": "Poly Haven",
+    "asset": "asphalt_02",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_nor_gl_1k.jpg"
+  },
+  {
+    "file": "textures/asphalt_02_rough.jpg",
+    "source": "Poly Haven",
+    "asset": "asphalt_02",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_rough_1k.jpg"
+  },
+  {
+    "file": "textures/brick_wall_001_diff.jpg",
+    "source": "Poly Haven",
+    "asset": "brick_wall_001",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brick_wall_001/brick_wall_001_diffuse_1k.jpg"
+  },
+  {
+    "file": "textures/brick_wall_001_nor_gl.jpg",
+    "source": "Poly Haven",
+    "asset": "brick_wall_001",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brick_wall_001/brick_wall_001_nor_gl_1k.jpg"
+  },
+  {
+    "file": "textures/brick_wall_001_rough.jpg",
+    "source": "Poly Haven",
+    "asset": "brick_wall_001",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brick_wall_001/brick_wall_001_rough_1k.jpg"
+  },
+  {
+    "file": "textures/concrete_wall_007_diff.jpg",
+    "source": "Poly Haven",
+    "asset": "concrete_wall_007",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_007/concrete_wall_007_diff_1k.jpg"
+  },
+  {
+    "file": "textures/concrete_wall_007_nor_gl.jpg",
+    "source": "Poly Haven",
+    "asset": "concrete_wall_007",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_007/concrete_wall_007_nor_gl_1k.jpg"
+  },
+  {
+    "file": "textures/concrete_wall_007_rough.jpg",
+    "source": "Poly Haven",
+    "asset": "concrete_wall_007",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_wall_007/concrete_wall_007_rough_1k.jpg"
+  },
+  {
+    "asset": "moonless_golf",
+    "file": "environment/night.hdr",
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/1k/moonless_golf_1k.hdr",
+    "license": "CC0",
+    "source": "Poly Haven"
+  },
+  {
+    "asset": "white_plaster_rough_01",
+    "file": "textures/white_plaster_rough_01_diff.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/white_plaster_rough_01/white_plaster_rough_01_diff_2k.jpg",
+    "license": "CC0",
+    "source": "Poly Haven"
+  },
+  {
+    "asset": "white_plaster_rough_01",
+    "file": "textures/white_plaster_rough_01_nor_gl.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/white_plaster_rough_01/white_plaster_rough_01_nor_gl_2k.jpg",
+    "license": "CC0",
+    "source": "Poly Haven"
+  },
+  {
+    "asset": "white_plaster_rough_01",
+    "file": "textures/white_plaster_rough_01_rough.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/white_plaster_rough_01/white_plaster_rough_01_rough_2k.jpg",
+    "license": "CC0",
+    "source": "Poly Haven"
+  },
+  {
+    "file": "models/folding_wooden_stool.gltf",
+    "source": "Poly Haven",
+    "asset": "folding_wooden_stool",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/folding_wooden_stool/folding_wooden_stool_1k.gltf",
+    "note": "Images and buffers are embedded into this glTF file."
+  },
+  {
+    "file": "models/metal_trash_can.gltf",
+    "source": "Poly Haven",
+    "asset": "metal_trash_can",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/metal_trash_can/metal_trash_can_1k.gltf",
+    "note": "Images and buffers are embedded into this glTF file."
+  },
+  {
+    "file": "textures/water_nor_gl.jpg",
+    "source": "Project-generated normal map"
+  }
+]
